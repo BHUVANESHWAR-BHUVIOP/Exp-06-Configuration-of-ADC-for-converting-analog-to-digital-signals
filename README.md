@@ -1,10 +1,10 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
+Name : BHUVANESHWAR V
 
-Name :	BHUVANESHWAR V
+Roll No: 212221240009
 
-
-Roll no: 212221240009
+Date of experiment : 14.10.2022
   
   
 ## Aim: 
